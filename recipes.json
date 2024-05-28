@@ -1,0 +1,20 @@
+{
+  "winemaking": [
+    {
+      "name": "Scarrot Wine",
+      "energy": 257.8,
+      "experience": 400,
+      "time": 8,
+      "energy_cost": 0,
+      "ingredients": {
+        "Silk Slug Slime": 1,
+        "Honey": 6,
+        "Cooking Mix": 25
+      }
+    }
+    // Agrega más recetas aquí
+  ],
+  "crafting": [
+    // Agrega recetas de crafting aquí
+  ]
+}
