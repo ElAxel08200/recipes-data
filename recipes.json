@@ -85,8 +85,8 @@
       "energy_cost": 0,
       "ingredients": {
         "Grainbow": 24,
-        "Cooking Mix": 10,
-        "Seltsam Egg": 3
+        "Seltsam Egg": 3,
+        "Cooking Mix": 10
       }
     },
     {
@@ -97,8 +97,8 @@
       "energy_cost": 2,
       "ingredients": {
         "Hotato": 24,
-        "Cooking Mix": 10,
-        "Honey": 3
+        "Honey": 3,
+        "Cooking Mix": 10
       }
     },
     {
@@ -109,8 +109,8 @@
       "energy_cost": 0,
       "ingredients": {
         "Butterberry": 24,
-        "Cooking Mix": 10,
-        "Popberry Wine": 6
+        "Popberry Wine": 6,
+        "Cooking Mix": 10
       }
     },
     {
@@ -134,8 +134,8 @@
       "energy_cost": 0,
       "ingredients": {
         "Watermint": 24,
-        "Cooking Mix": 10,
-        "Honey": 3
+        "Honey": 3,
+        "Cooking Mix": 10
       }
     },
     {
@@ -146,8 +146,8 @@
       "energy_cost": 0,
       "ingredients": {
         "Astracactus": 24,
-        "Cooking Mix": 10,
-        "Honey": 36
+        "Honey": 36,
+        "Cooking Mix": 10
       }
     },
     {
@@ -170,9 +170,9 @@
       "time": 35,
       "energy_cost": 4,
       "ingredients": {
-        "Muckchuck": 20,
-        "Cooking Mix": 10,
-        "Honey": 3
+        "Muckchuck": 24,
+        "Honey": 3,
+        "Cooking Mix": 10
       }
     }
   ]
