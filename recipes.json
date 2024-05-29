@@ -1,20 +1,179 @@
 {
   "winemaking": [
     {
+      "name": "Popberry Wine",
+      "energy": 77.0,
+      "experience": 110,
+      "time": 1,
+      "energy_cost": 0,
+      "ingredients": {
+        "Popberry": 24,
+        "Honey": 3,
+        "Cooking Mix": 10
+      }
+    },
+    {
+      "name": "Shorelimeade",
+      "energy": 222.9,
+      "experience": 0,
+      "time": 10,
+      "energy_cost": 10,
+      "ingredients": {
+        "Shorelime": 51
+      }
+    },
+    {
+      "name": "Heartbeet Wine",
+      "energy": 81.2,
+      "experience": 120,
+      "time": 2,
+      "energy_cost": 0,
+      "ingredients": {
+        "Heartbeet": 24,
+        "Honey": 3,
+        "Love Grub": 1,
+        "Cooking Mix": 10
+      }
+    },
+    {
+      "name": "Candy Cane Eggnog Macchiato",
+      "energy": 240,
+      "experience": 250,
+      "time": 5,
+      "energy_cost": 10,
+      "ingredients": {
+        "Candy Cane Green": 12,
+        "Candy Cane Red": 12,
+        "Egg": 6,
+        "Watermint Whisky": 1,
+        "Java Pod": 1
+      }
+    },
+    {
+      "name": "Grumpkin Spiced Latte",
+      "energy": 258.8,
+      "experience": 350,
+      "time": 5,
+      "energy_cost": 12,
+      "ingredients": {
+        "Orange Grumpkin": 12,
+        "Grumpkin": 12,
+        "Hotato": 6,
+        "Java Pod": 3,
+        "Cow Milk": 1
+      }
+    },
+    {
+      "name": "Cotton Candy Milkshake",
+      "energy": 48.8,
+      "experience": 80,
+      "time": 5,
+      "energy_cost": 8,
+      "ingredients": {
+        "Bluzberry Cotton Candy": 12,
+        "Razzleberry Cotton Candy": 12,
+        "Bluzzleberry Swirl Cotton Candy": 3,
+        "Honey": 12,
+        "Cow Milk": 1
+      }
+    },
+    {
+      "name": "Grainshine",
+      "energy": 116.1,
+      "experience": 176,
+      "time": 3,
+      "energy_cost": 0,
+      "ingredients": {
+        "Grainbow": 24,
+        "Cooking Mix": 10,
+        "Seltsam Egg": 3
+      }
+    },
+    {
+      "name": "Hotka",
+      "energy": 259.6,
+      "experience": 400,
+      "time": 20,
+      "energy_cost": 2,
+      "ingredients": {
+        "Hotato": 24,
+        "Cooking Mix": 10,
+        "Honey": 3
+      }
+    },
+    {
+      "name": "Butterbrew",
+      "energy": 558,
+      "experience": 850,
+      "time": 8,
+      "energy_cost": 0,
+      "ingredients": {
+        "Butterberry": 24,
+        "Cooking Mix": 10,
+        "Popberry Wine": 6
+      }
+    },
+    {
+      "name": "Grumpkin Wine",
+      "energy": 216,
+      "experience": 320,
+      "time": 5,
+      "energy_cost": 0,
+      "ingredients": {
+        "Grumpkin": 24,
+        "Honey": 1,
+        "Honey": 6,
+        "Cooking Mix": 20
+      }
+    },
+    {
+      "name": "Watermint Whisky",
+      "energy": 221.2,
+      "experience": 350,
+      "time": 4,
+      "energy_cost": 0,
+      "ingredients": {
+        "Watermint": 24,
+        "Cooking Mix": 10,
+        "Honey": 3
+      }
+    },
+    {
+      "name": "Astracactus Tequila",
+      "energy": 299.3,
+      "experience": 480,
+      "time": 10,
+      "energy_cost": 0,
+      "ingredients": {
+        "Astracactus": 24,
+        "Cooking Mix": 10,
+        "Honey": 36
+      }
+    },
+    {
       "name": "Scarrot Wine",
       "energy": 257.8,
       "experience": 400,
       "time": 8,
       "energy_cost": 0,
       "ingredients": {
+        "Scarrot": 24,
         "Silk Slug Slime": 1,
         "Honey": 6,
         "Cooking Mix": 25
       }
+    },
+    {
+      "name": "Muckchuck Mead",
+      "energy": 326.3,
+      "experience": 460,
+      "time": 35,
+      "energy_cost": 4,
+      "ingredients": {
+        "Muckchuck": 20,
+        "Cooking Mix": 10,
+        "Honey": 3
+      }
     }
-    // Agrega más recetas aquí
-  ],
-  "crafting": [
-    // Agrega recetas de crafting aquí
   ]
 }
