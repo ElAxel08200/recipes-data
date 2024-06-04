@@ -2,7 +2,7 @@
   "winemaking": [
     {
       "name": "Popberry Wine",
-      "Case": Yes,
+      "Case": "Yes",
       "energy": 77.0,
       "experience": 110,
       "time": 1,
@@ -15,7 +15,7 @@
     },
     {
       "name": "Shorelimeade",
-      "Case": No,
+      "Case": "No",
       "energy": 222.9,
       "experience": 0,
       "time": 10,
@@ -26,7 +26,7 @@
     },
     {
       "name": "Heartbeet Wine",
-      "Case": No,
+      "Case": "No",
       "energy": 81.2,
       "experience": 120,
       "time": 2,
@@ -40,7 +40,7 @@
     },
     {
       "name": "Candy Cane Eggnog Macchiato",
-      "Case": No,
+      "Case": "No",
       "energy": 240,
       "experience": 250,
       "time": 5,
@@ -55,7 +55,7 @@
     },
     {
       "name": "Grumpkin Spiced Latte",
-      "Case": No,
+      "Case": "No",
       "energy": 258.8,
       "experience": 350,
       "time": 5,
@@ -70,7 +70,7 @@
     },
     {
       "name": "Cotton Candy Milkshake",
-      "Case": No,
+      "Case": "No",
       "energy": 48.8,
       "experience": 80,
       "time": 5,
@@ -85,7 +85,7 @@
     },
     {
       "name": "Grainshine",
-      "Case": Yes,
+      "Case": "Yes",
       "energy": 116.1,
       "experience": 176,
       "time": 3,
@@ -98,7 +98,7 @@
     },
     {
       "name": "Hotka",
-      "Case": Yes,
+      "Case": "Yes",
       "energy": 259.6,
       "experience": 400,
       "time": 20,
@@ -111,7 +111,7 @@
     },
     {
       "name": "Butterbrew",
-      "Case": Yes,
+      "Case": "Yes",
       "energy": 558,
       "experience": 850,
       "time": 8,
@@ -124,7 +124,7 @@
     },
     {
       "name": "Grumpkin Wine",
-      "Case": Yes,
+      "Case": "Yes",
       "energy": 216,
       "experience": 320,
       "time": 5,
@@ -138,7 +138,7 @@
     },
     {
       "name": "Watermint Whisky",
-      "Case": Yes,
+      "Case": "Yes",
       "energy": 221.2,
       "experience": 350,
       "time": 4,
@@ -151,7 +151,7 @@
     },
     {
       "name": "Astracactus Tequila",
-      "Case": Yes,
+      "Case": "Yes",
       "energy": 299.3,
       "experience": 480,
       "time": 10,
@@ -164,7 +164,7 @@
     },
     {
       "name": "Scarrot Wine",
-      "Case": Yes,
+      "Case": "Yes",
       "energy": 257.8,
       "experience": 400,
       "time": 8,
@@ -178,7 +178,7 @@
     },
     {
       "name": "Muckchuck Mead",
-      "Case": Yes,
+      "Case": "Yes",
       "energy": 326.3,
       "experience": 460,
       "time": 35,
